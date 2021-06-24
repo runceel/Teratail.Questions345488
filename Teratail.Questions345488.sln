@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31410.414
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teratail.Questions345488", "Teratail.Questions345488\Teratail.Questions345488.csproj", "{F5B88E49-6762-4AB6-ACAB-7B36CF77FC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B88E49-6762-4AB6-ACAB-7B36CF77FC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B88E49-6762-4AB6-ACAB-7B36CF77FC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B88E49-6762-4AB6-ACAB-7B36CF77FC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B88E49-6762-4AB6-ACAB-7B36CF77FC58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A85C83D-E83E-4328-9606-1D814C1593A4}
+	EndGlobalSection
+EndGlobal
