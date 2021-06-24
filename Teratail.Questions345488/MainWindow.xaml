@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:Teratail.Questions345488"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    <StackPanel>
+        <Button Content="幅が変わります" Width="{Binding Text, ElementName=textBoxWidth}" />
+        <TextBox x:Name="textBoxWidth" />
+    </StackPanel>
 </Window>
